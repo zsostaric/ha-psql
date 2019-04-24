@@ -38,7 +38,12 @@ Supported Systems
 Tested on CentOS 7.6.1810 on the following versions:
 
 PostgreSQL 10.7
+
 Patroni 1.5.6
+
 etcd 3.3.11
+
 HAProxy 1.5.18
+
 Keepalived 1.3.5
+
